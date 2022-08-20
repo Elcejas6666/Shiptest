@@ -1,5 +1,10 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<h1>Welcome to Sandbox LRP server 13!</h1>
 
-<i>This server is running a White Sands SS13 Git build.</i>
+<i>1.everyone is coder, but you can rank up with the time
+2.if you do bad thing like explosions or something you get deranked to player unstimated time.
+3 the idea of this server is experiment and LRP.</i>
+
+
+<h1>https://discord.gg/tkFV6h3VDx</h1>
